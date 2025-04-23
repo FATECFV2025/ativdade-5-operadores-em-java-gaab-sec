@@ -19,7 +19,7 @@ public class App {
         System.out.printf("Informe um número: ");
         v1 = ler.nextInt();
 
-        System.out.printf(v2+" "+v1);
+        System.out.printf(v2+" "+v1); // da espaço pfvr professor
     }
     public static void main(String[] args) throws Exception {
         funcao_teste();
